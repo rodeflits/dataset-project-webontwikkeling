@@ -1,0 +1,50 @@
+[
+    {
+        "id": "BR-001",
+        "name": "Jean Paul Gaultier",
+        "websiteUrl": "https://www.jeanpaulgaultier.com/",
+        "imageUrl": "",
+        "category": "Designer",
+        "foundedYear": 1976
+    },
+    {
+        "id": "BR-002",
+        "name": "Yves Saint Laurent",
+        "websiteUrl": "https://www.ysl.com/",
+        "imageUrl": "",
+        "category": "Designer",
+        "foundedYear": 1961
+    },
+    {
+        "id": "BR-003",
+        "name": "Louis Vuitton",
+        "websiteUrl": "https://www.louisvuitton.com/",
+        "imageUrl": "",
+        "category": "Designer",
+        "foundedYear": 1854
+    },
+    {
+        "id": "BR-004",
+        "name": "Kilian",
+        "websiteUrl": "https://www.bykilian.com/",
+        "imageUrl": "",
+        "category": "Niche",
+        "foundedYear": 2007
+    },
+    {
+        "id": "BR-005",
+        "name": "Xerjoff",
+        "websiteUrl": "https://www.xerjoff.com/",
+        "imageUrl": "",
+        "category": "Niche",
+        "foundedYear": 2007
+    },
+    {
+        "id": "BR-006",
+        "name": "Tom Ford",
+        "websiteUrl": "https://www.tomford.com/",
+        "imageUrl": "",
+        "category": "Designer",
+        "foundedYear": 2005
+    }
+]

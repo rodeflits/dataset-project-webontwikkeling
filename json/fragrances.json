@@ -1,0 +1,192 @@
+[
+  {
+    "id": "FR-001",
+    "name": "Le Beau Le Parfum",
+    "description": "Sweet, creamy coconut with warm woods and addictive amber depth.",
+    "rating": 88,
+    "isRefillable": false,
+    "dateOfRelease": "2022-01-01",
+    "imageUrl": "",
+    "gender": "male",
+    "topNotes": ["coconut", "pineapple", "bergamot"],
+    "brand": {
+        "id": "BR-001",
+        "name": "Jean Paul Gaultier",
+        "websiteUrl": "https://www.jeanpaulgaultier.com/",
+        "imageUrl": "",
+        "category": "Designer",
+        "foundedYear": 1976
+    }
+  },
+  {
+    "id": "FR-002",
+    "name": "Le Male Le Parfum",
+    "description": "Warm, spicy vanilla with cardamom and a smooth oriental backbone.",
+    "rating": 90,
+    "isRefillable": false,
+    "dateOfRelease": "2020-01-01",
+    "imageUrl": "",
+    "gender": "male",
+    "topNotes": ["cardamom", "vanilla", "lavender"],
+    "brand": {
+        "id": "BR-001",
+        "name": "Jean Paul Gaultier",
+        "websiteUrl": "https://www.jeanpaulgaultier.com/",
+        "imageUrl": "",
+        "category": "Designer",
+        "foundedYear": 1976
+    }
+  },
+  {
+    "id": "FR-003",
+    "name": "Y Eau de Parfum",
+    "description": "Fresh aromatic sweetness balanced with apple, sage, and woody warmth.",
+    "rating": 85,
+    "isRefillable": true,
+    "dateOfRelease": "2018-01-01",
+    "imageUrl": "",
+    "gender": "male",
+    "topNotes": ["apple", "bergamot", "ginger"],
+    "brand": {
+        "id": "BR-002",
+        "name": "Yves Saint Laurent",
+        "websiteUrl": "https://www.ysl.com/",
+        "imageUrl": "",
+        "category": "Designer",
+        "foundedYear": 1961
+    }
+  },
+  {
+    "id": "FR-004",
+    "name": "Imagination",
+    "description": "Bright citrus freshness with tea and clean ambroxan elegance.",
+    "rating": 92,
+    "isRefillable": true,
+    "dateOfRelease": "2021-04-01",
+    "imageUrl": "",
+    "gender": "male",
+    "topNotes": ["citron", "bergamot", "ginger"],
+    "brand": {
+        "id": "BR-003",
+        "name": "Louis Vuitton",
+        "websiteUrl": "https://www.louisvuitton.com/",
+        "imageUrl": "",
+        "category": "Designer",
+        "foundedYear": 1854
+    }
+  },
+  {
+    "id": "FR-005",
+    "name": "Angels' Share",
+    "description": "Rich boozy sweetness with cinnamon, vanilla, and warm oak.",
+    "rating": 93,
+    "isRefillable": true,
+    "dateOfRelease": "2020-10-01",
+    "imageUrl": "",
+    "gender": "unisex",
+    "topNotes": ["cognac", "cinnamon", "oak"],
+    "brand": {
+        "id": "BR-004",
+        "name": "Kilian",
+        "websiteUrl": "https://www.bykilian.com/",
+        "imageUrl": "",
+        "category": "Niche",
+        "foundedYear": 2007
+    }
+  },
+  {
+    "id": "FR-006",
+    "name": "Erba Pura",
+    "description": "Intense fruity sweetness with musks and long-lasting creamy woods.",
+    "rating": 89,
+    "isRefillable": false,
+    "dateOfRelease": "2019-01-01",
+    "imageUrl": "",
+    "gender": "unisex",
+    "topNotes": ["orange", "lemon", "bergamot"],
+    "brand": {
+        "id": "BR-005",
+        "name": "Xerjoff",
+        "websiteUrl": "https://www.xerjoff.com/",
+        "imageUrl": "",
+        "category": "Niche",
+        "foundedYear": 2007
+    }
+  },
+  {
+    "id": "FR-007",
+    "name": "Tobacco Vanille",
+    "description": "Bold tobacco spice blended with rich vanilla and dried fruits.",
+    "rating": 91,
+    "isRefillable": true,
+    "dateOfRelease": "2007-09-01",
+    "imageUrl": "",
+    "gender": "unisex",
+    "topNotes": ["tobacco leaf", "spices", "vanilla"],
+    "brand": {
+        "id": "BR-006",
+        "name": "Tom Ford",
+        "websiteUrl": "https://www.tomford.com/",
+        "imageUrl": "",
+        "category": "Designer",
+        "foundedYear": 2005
+    }
+  },
+  {
+    "id": "FR-008",
+    "name": "XJ 1861 Naxos",
+    "description": "Honeyed lavender with citrus freshness and deep tobacco warmth.",
+    "rating": 94,
+    "isRefillable": false,
+    "dateOfRelease": "2015-01-01",
+    "imageUrl": "",
+    "gender": "unisex",
+    "topNotes": ["bergamot", "lemon", "lavender"],
+    "brand": {
+        "id": "BR-005",
+        "name": "Xerjoff",
+        "websiteUrl": "https://www.xerjoff.com/",
+        "imageUrl": "",
+        "category": "Niche",
+        "foundedYear": 2007
+    }
+  },
+  {
+    "id": "FR-009",
+    "name": "Black Opium",
+    "description": "Sweet coffee vanilla fragrance with soft white floral accents.",
+    "rating": 86,
+    "isRefillable": true,
+    "dateOfRelease": "2014-09-01",
+    "imageUrl": "",
+    "gender": "female",
+    "topNotes": ["coffee", "pear", "pink pepper"],
+    "brand": {
+        "id": "BR-002",
+        "name": "Yves Saint Laurent",
+        "websiteUrl": "https://www.ysl.com/",
+        "imageUrl": "",
+        "category": "Designer",
+        "foundedYear": 1961
+    }
+  },
+  {
+    "id": "FR-010",
+    "name": "Black Orchid",
+    "description": "Dark floral with earthy truffle, spices, and luxurious sweetness.",
+    "rating": 88,
+    "isRefillable": false,
+    "dateOfRelease": "2006-09-01",
+    "imageUrl": "",
+    "gender": "female",
+    "topNotes": ["truffle", "ylang-ylang", "bergamot"],
+    "brand": {
+        "id": "BR-006",
+        "name": "Tom Ford",
+        "websiteUrl": "https://www.tomford.com/",
+        "imageUrl": "",
+        "category": "Designer",
+        "foundedYear": 2005
+    }
+  }
+]
