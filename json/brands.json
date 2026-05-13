@@ -3,7 +3,7 @@
         "id": "BR-001",
         "name": "Jean Paul Gaultier",
         "websiteUrl": "https://www.jeanpaulgaultier.com/",
-        "imageUrl": "",
+        "imageUrl": "https://raw.githubusercontent.com/rodeflits/dataset-project-webontwikkeling/main/brand-images/jean_paul_gaultier.webp",
         "category": "Designer",
         "foundedYear": 1976
     },
@@ -11,7 +11,7 @@
         "id": "BR-002",
         "name": "Yves Saint Laurent",
         "websiteUrl": "https://www.ysl.com/",
-        "imageUrl": "",
+        "imageUrl": "https://raw.githubusercontent.com/rodeflits/dataset-project-webontwikkeling/main/brand-images/yves_saint_laurent.webp",
         "category": "Designer",
         "foundedYear": 1961
     },
@@ -19,7 +19,7 @@
         "id": "BR-003",
         "name": "Louis Vuitton",
         "websiteUrl": "https://www.louisvuitton.com/",
-        "imageUrl": "",
+        "imageUrl": "https://raw.githubusercontent.com/rodeflits/dataset-project-webontwikkeling/main/brand-images/louis_vuitton.webp",
         "category": "Designer",
         "foundedYear": 1854
     },
@@ -27,7 +27,7 @@
         "id": "BR-004",
         "name": "Kilian",
         "websiteUrl": "https://www.bykilian.com/",
-        "imageUrl": "",
+        "imageUrl": "https://raw.githubusercontent.com/rodeflits/dataset-project-webontwikkeling/main/brand-images/kilian.webp",
         "category": "Niche",
         "foundedYear": 2007
     },
@@ -35,7 +35,7 @@
         "id": "BR-005",
         "name": "Xerjoff",
         "websiteUrl": "https://www.xerjoff.com/",
-        "imageUrl": "",
+        "imageUrl": "https://raw.githubusercontent.com/rodeflits/dataset-project-webontwikkeling/main/brand-images/xerjoff.webp",
         "category": "Niche",
         "foundedYear": 2007
     },
@@ -43,7 +43,7 @@
         "id": "BR-006",
         "name": "Tom Ford",
         "websiteUrl": "https://www.tomford.com/",
-        "imageUrl": "",
+        "imageUrl": "https://raw.githubusercontent.com/rodeflits/dataset-project-webontwikkeling/main/brand-images/tom_ford.webp",
         "category": "Designer",
         "foundedYear": 2005
     }

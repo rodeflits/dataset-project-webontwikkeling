@@ -6,14 +6,14 @@
     "rating": 88,
     "isRefillable": false,
     "dateOfRelease": "2022-01-01",
-    "imageUrl": "",
+    "imageUrl": "https://raw.githubusercontent.com/rodeflits/dataset-project-webontwikkeling/main/fragrance-images/le_beau_le_parfum.webp",
     "gender": "male",
     "topNotes": ["coconut", "pineapple", "bergamot"],
     "brand": {
         "id": "BR-001",
         "name": "Jean Paul Gaultier",
         "websiteUrl": "https://www.jeanpaulgaultier.com/",
-        "imageUrl": "",
+        "imageUrl": "https://raw.githubusercontent.com/rodeflits/dataset-project-webontwikkeling/main/brand-images/jean_paul_gaultier.webp",
         "category": "Designer",
         "foundedYear": 1976
     }
@@ -25,14 +25,14 @@
     "rating": 90,
     "isRefillable": false,
     "dateOfRelease": "2020-01-01",
-    "imageUrl": "",
+    "imageUrl": "https://raw.githubusercontent.com/rodeflits/dataset-project-webontwikkeling/main/fragrance-images/le_male_le_parfum.webp",
     "gender": "male",
     "topNotes": ["cardamom", "vanilla", "lavender"],
     "brand": {
         "id": "BR-001",
         "name": "Jean Paul Gaultier",
         "websiteUrl": "https://www.jeanpaulgaultier.com/",
-        "imageUrl": "",
+        "imageUrl": "https://raw.githubusercontent.com/rodeflits/dataset-project-webontwikkeling/main/brand-images/jean_paul_gaultier.webp",
         "category": "Designer",
         "foundedYear": 1976
     }
@@ -44,14 +44,14 @@
     "rating": 85,
     "isRefillable": true,
     "dateOfRelease": "2018-01-01",
-    "imageUrl": "",
+    "imageUrl": "https://raw.githubusercontent.com/rodeflits/dataset-project-webontwikkeling/main/fragrance-images/y_eau_de_parfum.webp",
     "gender": "male",
     "topNotes": ["apple", "bergamot", "ginger"],
     "brand": {
         "id": "BR-002",
         "name": "Yves Saint Laurent",
         "websiteUrl": "https://www.ysl.com/",
-        "imageUrl": "",
+        "imageUrl": "https://raw.githubusercontent.com/rodeflits/dataset-project-webontwikkeling/main/brand-images/yves_saint_laurent.webp",
         "category": "Designer",
         "foundedYear": 1961
     }
@@ -63,14 +63,14 @@
     "rating": 92,
     "isRefillable": true,
     "dateOfRelease": "2021-04-01",
-    "imageUrl": "",
+    "imageUrl": "https://raw.githubusercontent.com/rodeflits/dataset-project-webontwikkeling/main/fragrance-images/imagination.webp",
     "gender": "male",
     "topNotes": ["citron", "bergamot", "ginger"],
     "brand": {
         "id": "BR-003",
         "name": "Louis Vuitton",
         "websiteUrl": "https://www.louisvuitton.com/",
-        "imageUrl": "",
+        "imageUrl": "https://raw.githubusercontent.com/rodeflits/dataset-project-webontwikkeling/main/brand-images/louis_vuitton.webp",
         "category": "Designer",
         "foundedYear": 1854
     }
@@ -82,14 +82,14 @@
     "rating": 93,
     "isRefillable": true,
     "dateOfRelease": "2020-10-01",
-    "imageUrl": "",
+    "imageUrl": "https://raw.githubusercontent.com/rodeflits/dataset-project-webontwikkeling/main/fragrance-images/angels_share.webp",
     "gender": "unisex",
     "topNotes": ["cognac", "cinnamon", "oak"],
     "brand": {
         "id": "BR-004",
         "name": "Kilian",
         "websiteUrl": "https://www.bykilian.com/",
-        "imageUrl": "",
+        "imageUrl": "https://raw.githubusercontent.com/rodeflits/dataset-project-webontwikkeling/main/brand-images/kilian.webp",
         "category": "Niche",
         "foundedYear": 2007
     }
@@ -101,14 +101,14 @@
     "rating": 89,
     "isRefillable": false,
     "dateOfRelease": "2019-01-01",
-    "imageUrl": "",
+    "imageUrl": "https://raw.githubusercontent.com/rodeflits/dataset-project-webontwikkeling/main/fragrance-images/erba_pura.webp",
     "gender": "unisex",
     "topNotes": ["orange", "lemon", "bergamot"],
     "brand": {
         "id": "BR-005",
         "name": "Xerjoff",
         "websiteUrl": "https://www.xerjoff.com/",
-        "imageUrl": "",
+        "imageUrl": "https://raw.githubusercontent.com/rodeflits/dataset-project-webontwikkeling/main/brand-images/xerjoff.webp",
         "category": "Niche",
         "foundedYear": 2007
     }
@@ -120,14 +120,14 @@
     "rating": 91,
     "isRefillable": true,
     "dateOfRelease": "2007-09-01",
-    "imageUrl": "",
+    "imageUrl": "https://raw.githubusercontent.com/rodeflits/dataset-project-webontwikkeling/main/fragrance-images/tobacco_vanille.webp",
     "gender": "unisex",
     "topNotes": ["tobacco leaf", "spices", "vanilla"],
     "brand": {
         "id": "BR-006",
         "name": "Tom Ford",
         "websiteUrl": "https://www.tomford.com/",
-        "imageUrl": "",
+        "imageUrl": "https://raw.githubusercontent.com/rodeflits/dataset-project-webontwikkeling/main/brand-images/tom_ford.webp",
         "category": "Designer",
         "foundedYear": 2005
     }
@@ -139,14 +139,14 @@
     "rating": 94,
     "isRefillable": false,
     "dateOfRelease": "2015-01-01",
-    "imageUrl": "",
+    "imageUrl": "https://raw.githubusercontent.com/rodeflits/dataset-project-webontwikkeling/main/fragrance-images/xj_1861_naxos.webp",
     "gender": "unisex",
     "topNotes": ["bergamot", "lemon", "lavender"],
     "brand": {
         "id": "BR-005",
         "name": "Xerjoff",
         "websiteUrl": "https://www.xerjoff.com/",
-        "imageUrl": "",
+        "imageUrl": "https://raw.githubusercontent.com/rodeflits/dataset-project-webontwikkeling/main/brand-images/xerjoff.webp",
         "category": "Niche",
         "foundedYear": 2007
     }
@@ -158,14 +158,14 @@
     "rating": 86,
     "isRefillable": true,
     "dateOfRelease": "2014-09-01",
-    "imageUrl": "",
+    "imageUrl": "https://raw.githubusercontent.com/rodeflits/dataset-project-webontwikkeling/main/fragrance-images/black_opium.webp",
     "gender": "female",
     "topNotes": ["coffee", "pear", "pink pepper"],
     "brand": {
         "id": "BR-002",
         "name": "Yves Saint Laurent",
         "websiteUrl": "https://www.ysl.com/",
-        "imageUrl": "",
+        "imageUrl": "https://raw.githubusercontent.com/rodeflits/dataset-project-webontwikkeling/main/brand-images/yves_saint_laurent.webp",
         "category": "Designer",
         "foundedYear": 1961
     }
@@ -177,14 +177,14 @@
     "rating": 88,
     "isRefillable": false,
     "dateOfRelease": "2006-09-01",
-    "imageUrl": "",
+    "imageUrl": "https://raw.githubusercontent.com/rodeflits/dataset-project-webontwikkeling/main/fragrance-images/black_orchid.webp",
     "gender": "female",
     "topNotes": ["truffle", "ylang-ylang", "bergamot"],
     "brand": {
         "id": "BR-006",
         "name": "Tom Ford",
         "websiteUrl": "https://www.tomford.com/",
-        "imageUrl": "",
+        "imageUrl": "https://raw.githubusercontent.com/rodeflits/dataset-project-webontwikkeling/main/brand-images/tom_ford.webp",
         "category": "Designer",
         "foundedYear": 2005
     }
